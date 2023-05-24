@@ -1,2 +1,5 @@
-# mod-poppy
-Just some items I'm showcasing.
+---
+layout: page
+title: Larry Moss
+tagline: Professor of Mathematics
+---
